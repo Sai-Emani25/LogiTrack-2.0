@@ -1,0 +1,6 @@
+{
+  "name": "LogiTrack 2.0",
+  "description": "Smart enterprise supply chain and autonomous delivery management platform combining real-time tracking, predictive demand forecasting, smart auto-dispatch, and churn analytics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
